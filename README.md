@@ -1,9 +1,13 @@
 # 42piscine-2022
 42Malaga - C y Shell - Don't Copy!! Leaarn!
 
+# Ejercicios de la piscina de 42
 
- La piscina de 42 es un programa intensivo de cuatro semanas diseñado para introducir a los estudiantes en el mundo de la programación y la informática. Durante estas cuatro semanas, los estudiantes trabajan en equipo y se enfrentan a desafíos diarios que les permiten adquirir habilidades prácticas en lenguajes de programación como C y Shell.
+Este repositorio contiene ejercicios que realicé durante la piscina de 42, un programa intensivo de cuatro semanas diseñado para introducir a los estudiantes en el mundo de la programación y la informática. 
 
-La piscina de 42 es conocida por ser extremadamente rigurosa y exigente, y requiere un alto nivel de dedicación y compromiso por parte de los estudiantes. A lo largo de las cuatro semanas, los estudiantes se enfrentan a desafíos cada vez más complejos y aprenden a superar obstáculos y a trabajar bajo presión.
+Durante estas cuatro semanas, trabajé en equipo y enfrenté desafíos diarios que me permitieron adquirir habilidades prácticas en lenguajes de programación como C y Shell.
 
-En resumen, la piscina de 42 es una experiencia intensa pero altamente gratificante que permite a los estudiantes adquirir habilidades valiosas en programación y trabajar en equipo para superar desafíos.
+La piscina de 42 fue una experiencia muy dura, pero al final logré superarla y convertirme en un estudiante orgulloso de 42 Malaga. Estoy muy agradecido por todo lo que aprendí durante la piscina y la oportunidad de crecer tanto personal como profesionalmente.
+
+Este repositorio contiene una lista de ejercicios que realicé durante la piscina de 42, y espero que pueda ser útil para otros estudiantes que estén comenzando su viaje en la programación. ¡Gracias por visitar mi repositorio y espero que encuentres algo interesante aquí!
+
